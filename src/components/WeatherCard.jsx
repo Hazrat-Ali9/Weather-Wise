@@ -29,3 +29,5 @@ const WeatherCard = ({weatherDetails}) => {
 }
 
 export default WeatherCard
+
+// Weather Card 
